@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "0b3bdef0-6a54-97ee-8b14-68c518aa8acb",
+      "519f2808-7565-4d4f-bea1-2b5afb73c924"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "02f6107b-895c-4654-bf87-5322737296c3",
+    "website": "bills-and-billions-policymaking-and-planning-in-an-new-era-of-transformation-in-us-cities-and-states"
+  },
+  "course_title": "Bills and Billions: Policymaking and Planning in an Era of Transformation in US Cities and States",
+  "hide_download": false,
+  "course_description": "This course examines planning and public policy in the context of the U.S. political economy and changing national and global policy priorities and frameworks. The course reviews challenges to the dominant policy paradigms of the past several decades, including neoliberalism, globalization, and industrial strategy in the context of race, equity, sustainability, technology, and innovation. Students will be partnered with states/cities that are grappling with some of these questions, and will support them in developing a strategy for spending or accessing funding. The objective of the course is to offer a grounding in the why and how of the priorities driving today\u2019s policies, the inputs and processes that go into developing policies, and the downstream implications for federal policy decisions on cities and states.",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S943",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "bills-and-billions-policymaking-and-planning-in-an-new-era-of-transformation-in-us-cities-and-states"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "0baa283c-434f-4d4d-ae42-a941bc1926ba",
+  "site_short_id": "11.s943-spring-2023",
+  "site_url_path": "courses/11-s943-bills-and-billions-policymaking-and-planning-in-an-era-of-transformation-in-us-cities-and-states-spring-2023"
+}
